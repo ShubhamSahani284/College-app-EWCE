@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874097209902",
+    "project_id": "ewce-deb23",
+    "storage_bucket": "ewce-deb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874097209902:android:9466b50e54bda3d600e5bf",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzrgon4j4w6BvAYTmpLOBLQbHdQ5Vgmd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
